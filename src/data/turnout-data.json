@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1", 
+        "head": "Turnout in Nigeria has been dropping since 2003.", 
+        "sub": "[motion graphic of voters peeling away from the queue and a fly in of text below]", 
+        "text": "And between 2011 and 2015, it dropped 8%."
+    },
+    {
+        "id": "2", 
+        "head": "", 
+        "sub": "[line graph of Nigerian election turnout that builds on the TMG site graphic. See example below]", 
+        "text": "Participation has steadily declined since 2007."
+    },
+    {
+        "id": "3",
+        "head": "",
+        "sub": "[map of Africa highlighting recent turnouts in Ghana, Kenya, Zim, Liberia, South Africa]",
+        "text": "Nigeria falls below other countries in Africa in terms of voter turnout."
+    },
+    {
+        "id": "4",
+        "head": "In the 2015 national election, turnout varied across the country. PVT estimates of turnout ranged from 85% turnout in Yobe state to 28% in Borno and Lagos states.",
+        "sub": "[map of turnout by state from 2015]",
+        "text": "States in the south saw double-digit decreases in turnout between 2011 and 2015."
+    },
+    {
+        "id": "5",
+        "head": "For state-level elections, turnout is even lower. Since 2015, states that held elections for governor saw well under 50% turnout.",
+        "sub": "[state outlines of states that have held elections since 2015 with a popup of their turnouts: Kogi: XX%, Anambra: XX%, Ekiti: XX%, Osun: XX%]",
+        "text": ""
+    },
+    {
+        "id": "6",
+        "head": "Declining turnout is concerning. A turnout of approximately 44% in 2015 means that - in a country of then roughly 182 million people - only 29.4 million, or 16% of the population chose the country’s leaders.",
+        "sub": "[nested bubble chart of Nigeria’s population, registered voters in 2015 (67,422,005) and total votes (28,587,564)]",
+        "text": ""
+    }
+]

@@ -1,0 +1,41 @@
+footer {
+    color: #fff;
+    background-color: #66C0F2;
+    padding: 1em 5em;
+}
+
+footer > a {
+    color: #fff;
+}
+
+footer > a:focus {
+    color: #fff;
+}
+
+footer > a:hover {
+    color: #fff;
+}
+
+footer > .nav-link {
+    border-bottom: .08em solid #9AE1FF;                        
+    box-shadow: inset 0 -.1em 0 #9AE1FF;
+    transition: background 0.15s cubic-bezier(.33,.66,.66,1); 
+}
+
+footer > .nav-link:hover {
+    background: #9AE1FF; 
+}
+
+footer > .row {
+    padding: 8px 16px;
+}
+
+footer > .row > .col > a {
+    border: none;
+    box-shadow: none;
+}
+
+/*
+blue: #81d2ff 
+link border: #9AE1FF
+*/

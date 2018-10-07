@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1", 
+        "head": "New election technology intends to prevent fraud.", 
+        "sub": "[motion graphic of a PVC card reader that flickers on.]", 
+        "text": "However, it has had implementation challenges."
+    },
+    {
+        "id": "2", 
+        "head": "", 
+        "sub": "[BBC-style video of Cynthia explaining the electoral technology. Particularly:", 
+        "text": "Why electoral tech was implemented from a political standpoint during setup of polling units in 2015, only 77% of polling units in Nigeria had functioning card readers At 76% of polling units in 2015, card readers functioned properly throughout the accreditation process Regional disparities in PVC card reader use.]"
+    },
+    {
+        "id": "3",
+        "head": "Permanent voters’ cards (PVCs) and smart card readers were introduced for the 2015 national elections in order to enhance transparency and prevent fraud. However, during setup of polling units in 2015, only 77% of polling units in Nigeria had functioning card readers.",
+        "sub": "[animated pie chart showing 77%]",
+        "text": ""
+    },
+    {
+        "id": "4",
+        "head": "At 21% of polling units in 2015, particularly in northern states, voters were accredited to vote without their PVCs being checked by the card reader. Additionally, at 48% of polling units, voters were accredited even though the card reader could not read their PVC.",
+        "sub": "[map of accreditation without card reader in 2015]",
+        "text": ""
+    },
+    {
+        "id": "5",
+        "head": "In state elections since 2015, functioning card readers were not uniform across LGAs. However, their use has generally improved since the 2015 elections.",
+        "sub": "[Data from state elections]",
+        "text": ""
+    }
+]

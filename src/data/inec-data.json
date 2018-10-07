@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1", 
+        "head": "INEC is improving in administering elections.", 
+        "sub": "[motion graphic of INEC official at polling unit from the main page motioning a voter to step forward]", 
+        "text": "But the process could still be strengthened."
+    },
+    {
+        "id": "2", 
+        "head": "Comparing 2011 to 2015, 28% more polling units had INEC officials present by 7:30am on election day. Nationally, 70% of polling units were staffed at their assigned time in 2015.",
+        "sub": "[Data and explanation on why]", 
+        "text": "From 2011 to 2015, INEC improved in staffing polling units on time in southern states."
+    },
+    {
+        "id": "3",
+        "head": "In 2011 and 2015, INEC tried to prevent double voting by separating accreditation and voting processes. While effective, there were still challenges, including around its universal implementation.",
+        "sub": "In 2016, INEC adopted a process that once again combined accreditation and voting.",
+        "text": ""
+    },
+    {
+        "id": "4",
+        "head": "INEC officials continue to consistently ink fingers of voters as they are accredited. In 2011 and in 2015, officials in 96% of polling units marked most or all voter’s fingers with ink.",
+        "sub": "",
+        "text": ""
+    },
+    {
+        "id": "5",
+        "head": "High levels of rejected ballots disenfranchise voters that intended to cast a ballot on election day. In 2011 according to PVT data for the presidential election, an estimated 3% of ballots were rejected. By 2015, it dropped to 2%.",
+        "sub": "[static infographic of a person trying to cast a ballot frowning]",
+        "text": "While a 1% difference may not seem like much, it meant that hundreds of thousands fewer voters’ ballots were rejected based on how they were completed."
+    },
+    {
+        "id": "6",
+        "head": "While there is still room to improve, INEC has made measurable advancements in how they administer elections. A PVT will confirm whether this trend continues in 2019.",
+        "sub": "",
+        "text": ""
+    }
+]
